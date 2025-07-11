@@ -1,0 +1,794 @@
+[
+    {
+        "id": 1,
+        "title": "Jannik Sinner",
+        "category": "ATP",
+        "age": 23,
+        "country": "Italia",
+        "gender": "M",
+        "image": "/images/jannik-sinner.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 191,
+        "weightKg": 77,
+        "debutYear": 2018,
+        "ranking": 1,
+        "bestRanking": 1,
+        "tourTitles": 19,
+        "bigTitles": 8,
+        "grandSlamTitles": {
+            "total": 3,
+            "australianOpen": 2,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 1
+        },
+        "1000Titles": 4,
+        "500Titles": 5,
+        "250Titles": 6,
+        "finalsTitles": 1,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "pro-stock HEAD TGT 301.4",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Simone Vagnozzi",
+            "Darren Cahill"
+        ],
+        "firstNumberOneDate": "2024-06-10"
+    },
+    {
+        "id": 2,
+        "title": "Carlos Alcaraz",
+        "category": "ATP",
+        "age": 22,
+        "country": "Spagan",
+        "gender": "M",
+        "image": "/images/carlos-alcaraz.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 183,
+        "weightKg": 74,
+        "debutYear": 2018,
+        "ranking": 2,
+        "bestRanking": 1,
+        "tourTitles": 21,
+        "bigTitles": 12,
+        "grandSlamTitles": {
+            "total": 5,
+            "australianOpen": 0,
+            "rolandGarros": 2,
+            "wimbledon": 2,
+            "usOpen": 1
+        },
+        "1000Titles": 7,
+        "500Titles": 5,
+        "250Titles": 4,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Terra rossa",
+            "Erba"
+        ],
+        "racket": "Babolat Pure Aero (custom)",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Juan Carlos Ferrero",
+            "Samuel Lopez"
+        ],
+        "firstNumberOneDate": "2022-09-12"
+    },
+    {
+        "id": 3,
+        "title": "Alexander Zverev",
+        "category": "ATP",
+        "age": 28,
+        "country": "Germania",
+        "gender": "M",
+        "image": "/images/alexander-zverev.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 198,
+        "weightKg": 90,
+        "debutYear": 2013,
+        "ranking": 3,
+        "bestRanking": 2,
+        "tourTitles": 24,
+        "bigTitles": 9,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 6,
+        "500Titles": 5,
+        "250Titles": 9,
+        "finalsTitles": 2,
+        "olympicGolds": 1,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Head Gravity Pro (custom)",
+        "shoes": "Adidas",
+        "clothing": "Adidas",
+        "coach": [
+            "Alexander Zverev sr."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Jack Draper",
+        "category": "ATP",
+        "age": 23,
+        "country": "Gran Bretagna",
+        "gender": "M",
+        "image": "/images/jack-draper.png",
+        "dominantHand": "sinistra",
+        "backhand": "due mani",
+        "heightCm": 193,
+        "weightKg": 85,
+        "debutYear": 2018,
+        "ranking": 4,
+        "bestRanking": 4,
+        "tourTitles": 3,
+        "bigTitles": 1,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 1,
+        "500Titles": 1,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Dunlop FX 500 Tour",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "James Trotman"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Taylor Fritz",
+        "category": "ATP",
+        "age": 27,
+        "country": "USA",
+        "gender": "M",
+        "image": "/images/taylor-fritz.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 196,
+        "weightKg": 86,
+        "debutYear": 2015,
+        "ranking": 5,
+        "bestRanking": 4,
+        "tourTitles": 10,
+        "bigTitles": 1,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 1,
+        "500Titles": 1,
+        "250Titles": 8,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento",
+            "Erba"
+        ],
+        "racket": "Head Radical MP (custom)",
+        "shoes": "Nike",
+        "clothing": "Hugo Boss",
+        "coach": [
+            "Michael Russell",
+            "Paul Annacone"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Novak Djokovic",
+        "category": "ATP",
+        "age": 38,
+        "country": "Serbia",
+        "gender": "M",
+        "image": "/images/novak-djokovic.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 188,
+        "weightKg": 77,
+        "debutYear": 2003,
+        "ranking": 6,
+        "bestRanking": 1,
+        "tourTitles": 100,
+        "bigTitles": 72,
+        "grandSlamTitles": {
+            "total": 24,
+            "australianOpen": 10,
+            "rolandGarros": 3,
+            "wimbledon": 7,
+            "usOpen": 4
+        },
+        "1000Titles": 40,
+        "500Titles": 15,
+        "250Titles": 13,
+        "finalsTitles": 7,
+        "olympicGolds": 1,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Head Speed Pro (custom)",
+        "shoes": "Asics",
+        "clothing": "Lacoste",
+        "coach": [],
+        "firstNumberOneDate": "2011-07-04"
+    },
+    {
+        "id": 7,
+        "title": "Lorenzo Musetti",
+        "category": "ATP",
+        "age": 23,
+        "country": "Italia",
+        "gender": "M",
+        "image": "/images/lorenzo-musetti.png",
+        "dominantHand": "destra",
+        "backhand": "una mano",
+        "heightCm": 185,
+        "weightKg": 78,
+        "debutYear": 2019,
+        "ranking": 7,
+        "bestRanking": 6,
+        "tourTitles": 3,
+        "bigTitles": 1,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 0,
+        "500Titles": 1,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Terra rossa"
+        ],
+        "racket": "Head Graphene 360+ Gravity Pro (custom)",
+        "shoes": "Asics",
+        "clothing": "Asics",
+        "coach": [
+            "Simone Tartarini"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Holger Rune",
+        "category": "ATP",
+        "age": 22,
+        "country": "Danimarca",
+        "gender": "M",
+        "image": "/images/holger-rune.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 188,
+        "weightKg": 77,
+        "debutYear": 2020,
+        "ranking": 8,
+        "bestRanking": 4,
+        "tourTitles": 5,
+        "bigTitles": 1,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 1,
+        "500Titles": 1,
+        "250Titles": 3,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento",
+            "Terra rossa"
+        ],
+        "racket": "Head Graphene 360+ Speed Pro (custom)",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Lars Christensen",
+            "Kenneth Carlsen"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Daniil Medvedev",
+        "category": "ATP",
+        "age": 29,
+        "country": "Russia",
+        "gender": "M",
+        "image": "/images/daniil-medvedev.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 198,
+        "weightKg": 83,
+        "debutYear": 2014,
+        "ranking": 9,
+        "bestRanking": 1,
+        "tourTitles": 20,
+        "bigTitles": 8,
+        "grandSlamTitles": {
+            "total": 1,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 1
+        },
+        "1000Titles": 6,
+        "500Titles": 6,
+        "250Titles": 6,
+        "finalsTitles": 1,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Tecnifibre T-Fight ISO 305",
+        "shoes": "Lacoste",
+        "clothing": "Lacoste",
+        "coach": [
+            "Gilles Cervara"
+        ],
+        "firstNumberOneDate": "2022-02-28"
+    },
+    {
+        "id": 10,
+        "title": "Ben Shelton",
+        "category": "ATP",
+        "age": 22,
+        "country": "USA",
+        "gender": "M",
+        "image": "/images/ben-shelton.png",
+        "dominantHand": "sinistra",
+        "backhand": "due mani",
+        "heightCm": 193,
+        "weightKg": 88,
+        "debutYear": 2022,
+        "ranking": 10,
+        "bestRanking": 10,
+        "tourTitles": 2,
+        "bigTitles": 0,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 0,
+        "500Titles": 1,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Yonex VCORE 98",
+        "shoes": "On",
+        "clothing": "On",
+        "coach": [
+            "Bryan Shelton"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Aryna Sabalenka",
+        "category": "WTA",
+        "age": 27,
+        "country": "Bielorussia",
+        "gender": "F",
+        "image": "/images/aryna-sabalenka.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 182,
+        "weightKg": 82,
+        "debutYear": 2016,
+        "ranking": 1,
+        "bestRanking": 1,
+        "tourTitles": 19,
+        "bigTitles": 12,
+        "grandSlamTitles": {
+            "total": 3,
+            "australianOpen": 2,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 1
+        },
+        "1000Titles": 9,
+        "500Titles": 5,
+        "250Titles": 2,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Wilson Blade 98 (custom)",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Anton Dubrov"
+        ],
+        "firstNumberOneDate": "2023-09-11"
+    },
+    {
+        "id": 12,
+        "title": "Coco Gauff",
+        "category": "WTA",
+        "age": 21,
+        "country": "USA",
+        "gender": "F",
+        "image": "/images/coco-gauff.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 175,
+        "weightKg": 55,
+        "debutYear": 2019,
+        "ranking": 2,
+        "bestRanking": 2,
+        "tourTitles": 10,
+        "bigTitles": 5,
+        "grandSlamTitles": {
+            "total": 2,
+            "australianOpen": 0,
+            "rolandGarros": 1,
+            "wimbledon": 0,
+            "usOpen": 1
+        },
+        "1000Titles": 2,
+        "500Titles": 1,
+        "250Titles": 4,
+        "finalsTitles": 1,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Head PT399.2 (prototipo)",
+        "shoes": "New Balance",
+        "clothing": "New Balance",
+        "coach": [
+            "Matt Daly"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Jessica Pegula",
+        "category": "WTA",
+        "age": 31,
+        "country": "USA",
+        "gender": "F",
+        "image": "/images/jessica-pegula.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 170,
+        "weightKg": 70,
+        "debutYear": 2015,
+        "ranking": 3,
+        "bestRanking": 3,
+        "tourTitles": 9,
+        "bigTitles": 3,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 3,
+        "500Titles": 3,
+        "250Titles": 3,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Wilson Blade 98",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Mark Knowles",
+            "Mark Merklein"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Iga Swiatek",
+        "category": "WTA",
+        "age": 24,
+        "country": "Polonia",
+        "gender": "F",
+        "image": "/images/iga-swiatek.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 176,
+        "weightKg": 69,
+        "debutYear": 2016,
+        "ranking": 4,
+        "bestRanking": 1,
+        "tourTitles": 22,
+        "bigTitles": 16,
+        "grandSlamTitles": {
+            "total": 5,
+            "australianOpen": 0,
+            "rolandGarros": 4,
+            "wimbledon": 0,
+            "usOpen": 1
+        },
+        "1000Titles": 10,
+        "500Titles": 5,
+        "250Titles": 1,
+        "finalsTitles": 1,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Terra rossa"
+        ],
+        "racket": "Tecnifibre Tempo",
+        "shoes": "On",
+        "clothing": "On",
+        "coach": [
+            "Wim Fissette"
+        ],
+        "firstNumberOneDate": "2022-04-04"
+    },
+    {
+        "id": 15,
+        "title": "Jasmine Paolini",
+        "category": "WTA",
+        "age": 29,
+        "country": "Italia",
+        "gender": "F",
+        "image": "/images/jasmine-paolini.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 163,
+        "weightKg": 55,
+        "debutYear": 2013,
+        "ranking": 5,
+        "bestRanking": 4,
+        "tourTitles": 3,
+        "bigTitles": 2,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 2,
+        "500Titles": 0,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Terra rossa"
+        ],
+        "racket": "Yonex VCore 16x19",
+        "shoes": "Asics",
+        "clothing": "Asics",
+        "coach": [
+            "Marc Lopez"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Qinwen Zheng",
+        "category": "WTA",
+        "age": 22,
+        "country": "Cina",
+        "gender": "F",
+        "image": "/images/qinwen-zheng.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 178,
+        "weightKg": 77,
+        "debutYear": 2018,
+        "ranking": 6,
+        "bestRanking": 4,
+        "tourTitles": 5,
+        "bigTitles": 1,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 2,
+        "500Titles": 2,
+        "250Titles": 2,
+        "finalsTitles": 0,
+        "olympicGolds": 1,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Wilson Pro Staff 97",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Pere Riba"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Mirra Andreeva",
+        "category": "WTA",
+        "age": 18,
+        "country": "Russia",
+        "gender": "F",
+        "image": "/images/mirra-andreeva.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 175,
+        "weightKg": 0,
+        "debutYear": 2022,
+        "ranking": 7,
+        "bestRanking": 6,
+        "tourTitles": 3,
+        "bigTitles": 2,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 2,
+        "500Titles": 0,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Wilson Blade 98",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Conchita Martinez"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Madison Keys",
+        "category": "WTA",
+        "age": 30,
+        "country": "USA",
+        "gender": "F",
+        "image": "/images/madison-keys.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 178,
+        "weightKg": 66,
+        "debutYear": 2009,
+        "ranking": 8,
+        "bestRanking": 5,
+        "tourTitles": 10,
+        "bigTitles": 2,
+        "grandSlamTitles": {
+            "total": 1,
+            "australianOpen": 1,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 1,
+        "500Titles": 7,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Yonex EZONE 98",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Bjorn Fratangelo"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Paula Badosa",
+        "category": "WTA",
+        "age": 27,
+        "country": "Spagna",
+        "gender": "F",
+        "image": "/images/paula-badosa.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 180,
+        "weightKg": 70,
+        "debutYear": 2015,
+        "ranking": 9,
+        "bestRanking": 2,
+        "tourTitles": 4,
+        "bigTitles": 2,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 1,
+        "500Titles": 2,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Cemento"
+        ],
+        "racket": "Wilson Blade 98",
+        "shoes": "Nike",
+        "clothing": "Nike",
+        "coach": [
+            "Pol Toledo Bagué"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Emma Navarro",
+        "category": "WTA",
+        "age": 24,
+        "country": "USA",
+        "gender": "F",
+        "image": "/images/emma-navarro.png",
+        "dominantHand": "destra",
+        "backhand": "due mani",
+        "heightCm": 170,
+        "weightKg": 0,
+        "debutYear": 2015,
+        "ranking": 10,
+        "bestRanking": 8,
+        "tourTitles": 2,
+        "bigTitles": 0,
+        "grandSlamTitles": {
+            "total": 0,
+            "australianOpen": 0,
+            "rolandGarros": 0,
+            "wimbledon": 0,
+            "usOpen": 0
+        },
+        "1000Titles": 0,
+        "500Titles": 1,
+        "250Titles": 1,
+        "finalsTitles": 0,
+        "olympicGolds": 0,
+        "favouriteSurface": [
+            "Terra rossa"
+        ],
+        "racket": "Wilson Blade 98",
+        "shoes": "Fila",
+        "clothing": "Fila",
+        "coach": [
+            "Peter Ayers"
+        ]
+    }
+]
